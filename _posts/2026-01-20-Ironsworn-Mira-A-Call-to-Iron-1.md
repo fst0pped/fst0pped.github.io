@@ -40,13 +40,13 @@ Mira sets a comfortable pace but can't shake a nagging feeling that something is
         
 Shouting some very old-world curses at the departing spirit she turns around and begins trudging north. She won't give Kova the satisfaction of walking back past the village, but it's a long way round and in total this little detour will cost her a couple of hours travel time.
 
-> **Undertake a Journey (Troublesome):** The iron pillar north of Springtide
-> **Roll:** 4 + Wits(3) vs 2 and 6 = Strong Hit
-> Mark Progress, reach a waypoint
-> **Progress:** 3/10
-> **Descriptor/Location:** Savage / Ruin
-> *he obvious result for 'savage ruins' is raiders or bandits, but I don't want to introduce them so close to this village and this early in the journey. I'll ask the theme oracle for a little help.*
-> **Theme:** Quest
+> **Undertake a Journey (Troublesome):** The iron pillar north of Springtide  
+> **Roll:** 4 + Wits(3) vs 2 and 6 = Strong Hit  
+> Mark Progress, reach a waypoint  
+> **Progress:** 3/10  
+> **Descriptor/Location:** Savage / Ruin  
+> *he obvious result for 'savage ruins' is raiders or bandits, but I don't want to introduce them so close to this village and this early in the journey. I'll ask the theme oracle for a little help.*  
+> **Theme:** Quest  
 > *OK, so maybe there's something here to explore.*
 
 Making slow progress, Mira eventually sees a ruin that she knows through stories from hunters and gatherers in the village. Her curiosity gets the better of her and she walks toward it. One of the hunters lost a good iron knife in there once as he hid from wolves and she wants to see if she can find it - good iron is hard to come by, and seeing as she is joining the Iron priesthood... a bit of her feels like maybe this is an omen.
