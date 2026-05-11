@@ -4,10 +4,6 @@ title: Ironsworn - Mira - A call to Iron part 1
 date: 2026-01-20
 ---
 
-# {{ post.title }}
-## {{ post.date }}
-   
-
 > *The scene: The settlement of Springtide, a small village near the southern coast of the Havens. Close enough to the sea that the river occasionally floods when the tide is particularly high. We enter a hut near the centre where a young woman is packing a sturdy leather backpack with equipment and supplies for a long journey. She is slight and dark haired. Her clothes are practical and well made but clearly also well-worn. She wears a thick, dark grey woollen robe with a hood that is currently hanging down her back. She looks nervous but determined.*
 
 
@@ -27,18 +23,18 @@ She bids Zahn farewell, hoists her pack onto her back and walks out of her hut. 
 
 Then she hardens her resolve, faces North and takes a deliberate first step across the boundaries of the village, pulled like a fish on a line. She wraps her fist tightly around the coin on her necklace and whispers "I swear on Iron that I will attend you and learn what you want from me".
    
-> **Swear an Iron Vow (troublesome):** Attend the iron pillar north of Mira's home village and find out what it wants.
-> <strong>Roll:</strong> 2 + Heart(1) vs 7 and 8 = Miss
-> Envision what stands in the way of starting your quest.
-> -2 Momentum (0)<br />
-> **Progress:** 0/10
+> **Swear an Iron Vow (troublesome):** Attend the iron pillar north of Mira's home village and find out what it wants.  
+> <strong>Roll:</strong> 2 + Heart(1) vs 7 and 8 = Miss  
+> Envision what stands in the way of starting your quest.  
+> -2 Momentum (0)<br />  
+> **Progress:** 0/10  
 > **Action/Theme:** Summon / Mysticism.
 >    
-> As is tradition we start a new playthrough with a miss on the initial 'Swear an Iron Vow' roll.
+> *As is tradition we start a new playthrough with a miss on the initial 'Swear an Iron Vow' roll.*
 >
-> I rolled randomly for Mira's brother and got a profession of 'Mystic', which I have interpreted to mean that he is the village healer and spiritual leader. He serves the spirits of the old world, and it made sense to me that this would be a source of friction as Mira sets off on her own pilgrimage to serve the spirits of the the Ironlands.
+> *I rolled randomly for Mira's brother and got a profession of 'Mystic', which I have interpreted to mean that he is the village healer and spiritual leader. He serves the spirits of the old world, and it made sense to me that this would be a source of friction as Mira sets off on her own pilgrimage to serve the spirits of the the Ironlands.*
 > 
-> This is only a troublesome vow so I don't want to go too crazy with the consequence for the miss. The action/theme oracles rolled up 'Summon Mysticism'. Maybe Mira's brother summons a little harmless interference from his own spirits to lead her astray at the start of her journey. So I'll also retcon a little supressed smirk onto his face which Mira notices before he quickly hides it. She'll find out why very soon.
+> *This is only a troublesome vow so I don't want to go too crazy with the consequence for the miss. The action/theme oracles rolled up 'Summon Mysticism'. Maybe Mira's brother summons a little harmless interference from his own spirits to lead her astray at the start of her journey. So I'll also retcon a little supressed smirk onto his face which Mira notices before he quickly hides it. She'll find out why very soon.*
 
 Mira sets a comfortable pace but can't shake a nagging feeling that something isn't quite right. She's been walking for half an hour when she smells salt on the air and hears the crashing of waves. She realises that she has been walking South toward the coast instead of North into the Havens. There is a moment of pure confusion as she tries to reconcile her feeling with her reality, when suddenly it's like a veil is lifted from her mind. There's an echo of mocking laughter and her sense of direction returns with an unpleasant lurch. Her brother's doing. He always did like to have the last word.
         
