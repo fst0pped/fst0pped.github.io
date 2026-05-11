@@ -3,11 +3,16 @@ layout: default
 title: SoloStories
 ---
 <div>
-  # What is Solo Stories?
+  <h1>What is Solo Stories?</h1>
 
   <p>The purpose of this blog/site is to give a little back to the community of online solo RPers and hopefully do my bit to help those who follow to find their way into the hobby. Posts will be playthroughs and reviews of whatever solo TTRPG is currently on my table. Happy soloing!</p>
 
-  <div id="recentpostlistdiv"></div>
+  <ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
       
   <h2>What is 'solo role play'?</h2>
   <p>A normal first reaction to hearing about <em>Solo Role Play</em> is "How does that work? How can I be surprised if I'm deciding what happens next?" You might wonder how on earth you get started, or whether you need to be an aspiring writer to get anything out of the hobby.</p>
