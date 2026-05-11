@@ -26,7 +26,7 @@ Then she hardens her resolve, faces North and takes a deliberate first step acro
 > **Swear an Iron Vow (troublesome):** Attend the iron pillar north of Mira's home village and find out what it wants.  
 > <strong>Roll:</strong> 2 + Heart(1) vs 7 and 8 = Miss  
 > Envision what stands in the way of starting your quest.  
-> -2 Momentum (0)<br />  
+> -2 Momentum (0)
 > **Progress:** 0/10  
 > **Action/Theme:** Summon / Mysticism.
 >    
