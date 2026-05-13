@@ -7,14 +7,21 @@ title: Solo Posts
 
 <h2>Bucket of Bolts</h2>
 <h3>Endurance</h3>
+    <ul class="posts">
+	  {% for post in site.posts %}
+		{% if post.url contains "Bucket-of-Bolts-Endurance" %}
+	        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endif %}
+	  {% endfor %}
+	</ul>
   
 
 <h2>Ironsworn</h2>
 <h3>Mira and the Iron Calling</h3>
     <ul class="posts">
 	  {% for post in site.posts %}
-        {% if post.title contains Ironsworn-Mira %}
+		{% if post.url contains "Ironsworn-Mira" %}
 	        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-        {% endif %}
+		{% endif %}
 	  {% endfor %}
 	</ul>
