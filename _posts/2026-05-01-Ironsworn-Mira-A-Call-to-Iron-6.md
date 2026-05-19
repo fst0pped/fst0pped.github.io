@@ -35,11 +35,11 @@ Mira doesn't know if she's imagining it, but the pillar seems to respond to her 
 > You face a complication or hazard at the destination. Envision what you find.  
 > *I think I'll roll on the settlement troubles Oracle when we arrive and see what turns up.*
 
-Mira safely journeys along the trade road, ~occasionally passing Warden recruits and veterans passing in the opposite direction.~ but is concerned that she doesn't pass anyone coming from the direction of Abon.
+Mira safely journeys along the trade road, ~~~~~occasionally passing Warden recruits and veterans passing in the opposite direction.~~ but is concerned that she doesn't pass anyone coming from the direction of Abon.
 
 ![Alt text](/images/posts/ironsworn-mira/2026-05-01-Ironsworn-Mira-A-Call-to-Iron-6-map.png)
 
-~As she gets closer to Abon, sightings of other travellers slow down and she realises as she walks that for the last hour she hasn't seen anyone coming the other way. Nothing to worry about yet, maybe they just don't want to start a journey that they can't finish before last light, but she files it away as something to ask about when she reaches her destination.~
+~~As she gets closer to Abon, sightings of other travellers slow down and she realises as she walks that for the last hour she hasn't seen anyone coming the other way. Nothing to worry about yet, maybe they just don't want to start a journey that they can't finish before last light, but she files it away as something to ask about when she reaches her destination.~~
 
 > **Settlement:** First look oracle  
 > **Roll:** 48 = Numerous Grazing Animals  
@@ -47,7 +47,7 @@ Mira safely journeys along the trade road, ~occasionally passing Warden recruits
 
 > *I'm going to interpret the standing stones to be a 'stone city wall', because I've been thinking about whether Abon should have some kind of wall and as the oldest city in the realm it makes sense that they'd have upgraded the wooden palisades to stone over time. The Grazing Animals could just be flavour but I'd also like them to tell me something about the economy of this settlement. We know for sure that the city will provide meat, milk and wool to its inhabitants and probably trades these to other settlements in the area. That may or may not come up later, but it's all good fertile inspiration for later Oracle interpretations.*
 
-The sky is beginning to darken when Mira sees the walls of Abon on the horizon, and some activity outside the city as the local shepherds work to move their grazing animals back out of the open and into their sheds. She realises that she is more than a little relieved to see people going about their daily business after the dearth of travellers~ on the road toward the end of her journey~.
+The sky is beginning to darken when Mira sees the walls of Abon on the horizon, and some activity outside the city as the local shepherds work to move their grazing animals back out of the open and into their sheds. She realises that she is more than a little relieved to see people going about their daily business after the dearth of travellers ~~on the road toward the end of her journey~~.
 
 > *I think Mira would also have a little knowledge of the nearby city, so I'm going to roll on the Settlement: Projects oracle a couple of times and come up with a couple more pillars for the local economy. This is a big enough place that I think they'll do a bit of everything, but there are likely to be specialisms.*
 
@@ -57,7 +57,7 @@ The sky is beginning to darken when Mira sees the walls of Abon on the horizon, 
 
 > *This all makes perfect sense. Abon is the first landing of the first settlers to reach the Ironlands. It's on the coast in a natural harbour. Of course fishing is going to be a pillar of the local economy. So we build a picture of this city, a major producer of food and animal products and a major hub for trade - we know there is a river and at least one trade road - and I would imagine many Ironlands settlements further inland are heavily dependent on Abon for their viability.*
 
-~As Mira approaches the city gate the torches are being lit and a city Warden stops her and asks a few questions about where she has come from and her business in the city. She doesn't have a lot of news to share, but the Warden seems satisfied and allows her to pass.~
+~~As Mira approaches the city gate the torches are being lit and a city Warden stops her and asks a few questions about where she has come from and her business in the city. She doesn't have a lot of news to share, but the Warden seems satisfied and allows her to pass.~~
 
 > **And now we cash in that weak hit on the journey Oracle and see what complication or hazard we may need to deal with.**
 
@@ -80,7 +80,7 @@ As Mira approaches the city gate the torches are being lit and a city Warden sto
 > **Disposition:** 67 = Desperate, makes perfect sense and means she will probably tell us everything without the need for compulsion.  
 > **First Look:** Again, I've already decided she looks Exhausted so we're not going to roll.  
 
-Mira presses the Warden for more information and finds that her name is Themir, and that she hasn't slept in nearly two days. The nature of the sickness is a kind of fever that induces madness in those who catch it and causes them to see friends and family as threats. They will go into a manic rage, attacking anyone nearby until they collapse from exhaustion. It has spread quickly through the city and has consumed wardens, traders, fisherfolk and anyone who has spent any time within the walls. Only a few have died so far, but they expect that number to climb over the following days as the disease continues to progress and the few caregivers are overwhelmed.
+Mira presses the Warden for more information and finds that her name is Themir, and that she hasn't slept in nearly two days. The sickness is a kind of fever that induces madness in those who catch it and causes victims to go into a manic rage, attacking anyone nearby until they collapse from exhaustion. It has spread quickly through the city and has consumed wardens, traders, fisherfolk and anyone who has spent any time within the walls. Only a few have died so far, but they expect that number to climb over the following days as the disease continues to progress and the few caregivers are overwhelmed.
 
 Themir is clearly at the end of her tether, about to collapse from exhaustion herself. Mira has no experience with healing but feels compelled to help, even wondering if this might be related in some way to her calling. The timing is too perfect. She places a hand on Themir's shoulder, pulls her Iron knife from her belt and holds it flat to her chest. She then swears an Iron vow to help the city of Abon survive this outbreak in any way she can.
 

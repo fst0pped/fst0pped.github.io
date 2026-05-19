@@ -2,6 +2,8 @@
 layout: post
 title: Ironsworn - Mira - A call to Iron part 1
 date: 2026-01-20
+categories: letsplay
+tags: ironsworn mira ironcalling
 ---
 
 > *The scene: The settlement of Springtide, a small village near the southern coast of the Havens. Close enough to the sea that the river occasionally floods when the tide is particularly high. We enter a hut near the centre where a young woman is packing a sturdy leather backpack with equipment and supplies for a long journey. She is slight and dark haired. Her clothes are practical and well made but clearly also well-worn. She wears a thick, dark grey woollen robe with a hood that is currently hanging down her back. She looks nervous but determined.*

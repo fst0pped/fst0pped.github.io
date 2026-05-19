@@ -15,7 +15,7 @@ excerpt_separator: <!--excerpt-->
 
 **Describe the Captain and consider how they took command of your ship, and any notable crew or assets.**
 
-> **Our 3rd captain, Myles, left his ship at the scene of his latest heist/mission. It makes sense to me firstly that someone would be annoyed enough to try and go after him and secondly, that they might make use of the ship he left them. And so after a day of sitting empty our 4th captain takes control of the Endurance.**
+> *Our 3rd captain, Myles, left his ship at the scene of his latest heist/mission. It makes sense to me firstly that someone would be annoyed enough to try and go after him and secondly, that they might make use of the ship he left them. And so after a day of sitting empty our 4th captain takes control of the Endurance.*
 
 <!--excerpt-->
 

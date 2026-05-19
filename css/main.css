@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5 {
 }
 
 #content {
-  padding: 10px 5% 20px 5%;
+  padding: 10px 4em 20px 4em;
   margin: 1em 0;
   border-radius: 10px;
   background-color: #faf9f6;
@@ -91,6 +91,36 @@ p.meta {
 p.mechanics {
   margin-left: 2em;
   margin-right: 2em;
+}
+
+/*INDEX STYLE*/
+div.entries {
+list-style-type: none;
+padding-bottom: 2em;
+border-bottom: 1px #3e4285 solid;
+margin-bottom: 2em;
+}
+
+div.entries h1 a {
+  text-decoration: none;
+  color: #3e4285;
+}
+
+.PageNavigation {
+  margin-top: 3em;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  float: left;
+  width: 50%;
+}
+
+.PageNavigation .next {
+  text-align: right;
 }
 
 
@@ -169,10 +199,6 @@ div.sologame {
   margin-top: 1.4em;
 }
 
-/*DISQUS STYLE*/
-#disqus_thread {
-  margin-top: 1.6em;
-}
 
 /*FOOTER STYLE*/
 footer {
