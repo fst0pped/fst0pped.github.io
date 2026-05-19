@@ -35,7 +35,7 @@ Mira doesn't know if she's imagining it, but the pillar seems to respond to her 
 > You face a complication or hazard at the destination. Envision what you find.  
 > *I think I'll roll on the settlement troubles Oracle when we arrive and see what turns up.*
 
-Mira safely journeys along the trade road, ~~~~~occasionally passing Warden recruits and veterans passing in the opposite direction.~~ but is concerned that she doesn't pass anyone coming from the direction of Abon.
+Mira safely journeys along the trade road, ~~occasionally passing Warden recruits and veterans passing in the opposite direction.~~ but is concerned that she doesn't pass anyone coming from the direction of Abon.
 
 ![Alt text](/images/posts/ironsworn-mira/2026-05-01-Ironsworn-Mira-A-Call-to-Iron-6-map.png)
 
