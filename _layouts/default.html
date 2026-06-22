@@ -10,7 +10,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8"> 
     <!-- Here's the link to our CSS stylesheet! -->
+    
     <link href="/css/main.css" rel="stylesheet" type="text/css" media="all" />
+    {% if page.post_style == "ironsworn" %}
+      <link href="/css/ironsworn.css" rel="stylesheet" type="text/css" media="all" />
+    {% endif %}
     
   </head>
   <body>

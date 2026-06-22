@@ -1,0 +1,148 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+body {
+  animation: fadeBackgroundColourBody 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeBackgroundColourBody {
+  from { background-color: default; }
+  to { background-color: #999fa7; }
+}
+
+h1, h2, h3, h4, h5 {
+  color: #222222;
+}
+
+/*#CONTAINER is the rectangle that contains everything but the background!*/
+
+#content {
+  border-radius: 10px;
+}
+
+#content {
+  animation: fadeBackgroundColourContent 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeBackgroundColourContent {
+  from { background-color: default; }
+  to { background-color: #d9d8df; }
+}
+
+
+/*HEADER STYLE*/
+#header {
+  animation: fadeBackgroundColourHeader 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeBackgroundColourHeader {
+  from { background-color: default; }
+  to { background-color: #2e2e36; }
+}
+
+#header h1 {
+  color: white;
+  font-size: 5em;
+}
+#header ul {
+  list-style-type: none;
+  padding: 0.5em 0;
+  margin: 0;
+}
+#header li {
+  font-size: 1.2em;
+  display: inline-block;
+  margin-right: 1.5em;
+  margin-bottom: 0.2em;
+  margin-top: 0.2em;
+}
+#header li a {
+  color: white;
+  text-decoration: none;
+  background-color: inherit;
+}
+#header li a:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 600px) {
+  #header {
+    border-radius: 0;
+    padding: 1% 5%;
+  }
+}
+
+/*POST LIST STYLE*/
+#postlistdiv ul {
+  font-size: 1.2em;
+  padding: 0;
+  list-style-type: none;
+}
+#recentpostlistdiv ul {
+  font-size: 1.2em;
+  padding: 0;
+  list-style-type: none;
+}
+.moreposts {
+  font-size: 0.8em;
+  margin-top: 0.2em;
+}
+
+/*SOLO GAME STYLES*/
+div.sologame {
+  margin: 2em 0;
+}
+
+@media only screen and (max-width: 524px) {
+  div.sologame p.right {
+    float: none;
+    text-align: center;
+  }
+}
+
+/*NEXT AND PREVIOUS LINKS STYLE*/
+#nextprev {
+  text-align: center;
+  margin-top: 1.4em;
+}
+
+
+/*FOOTER STYLE*/
+footer {
+  font-size: 0.8em;
+  padding: 2em 5% 2em 5%;
+  background-color: #f6f6fa;
+  margin: 0;
+  border-radius: 10px;
+  clear: both;
+}
+
+footer .no-ai img {
+  width: 3.8em;
+}
+
+footer .no-ai img:hover {
+  width: 4em;
+}
+
+footer .no-ai a:hover {
+  background: none;
+}
+
+footer img#rss {
+  width: 1em;
+}
+
+footer a img#githubfooter {
+  width: 1em;
+}
+
+@media only screen and (max-width: 600px) {
+  footer {
+    border-radius: 0;
+  }
+}
