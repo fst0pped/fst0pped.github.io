@@ -3,15 +3,22 @@
    "how to change link color." */
 
 body {
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
   /* background-image: url('../images/background.png'); */
   /* background-repeat: no-repeat; */
   /* background-size: 100%;
 	background-position: top; */
+  animation: fadeBackgroundColourBody 3s;
+  animation-fill-mode: backwards;
   font-size: 18px;
   font-family: "Open Sans", sans-serif;
   margin: 0;
   min-width: 370px;
+}
+
+@keyframes fadeBackgroundColourBody {
+  from { background-color: #fff0; }
+  to { background-color: #ffffff; }
 }
 
 hr {
@@ -73,8 +80,7 @@ h1, h2, h3, h4, h5 {
 #content {
   padding: 10px 4em 20px 4em;
   margin: 1em 0;
-  /* border-radius: 10px; */
-  /* background-color: #faf9f6; */
+  border-radius: 10px;
   color: #151515; 
 }
 

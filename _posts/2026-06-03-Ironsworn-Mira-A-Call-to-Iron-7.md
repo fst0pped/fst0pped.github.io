@@ -1,6 +1,5 @@
 ---
 layout: post
-post_style: ironsworn
 title: Ironsworn - Mira - A call to Iron part 7
 date: 2026-06-03
 categories: letsplay

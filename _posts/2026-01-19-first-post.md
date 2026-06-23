@@ -2,6 +2,7 @@
 layout: post
 title: Solo Stories first post and intro
 date: 2026-01-19
+tags: other
 ---
 
 The traditional first (and often only...) blogpost to get things moving and check that the formatting all works as expected.
