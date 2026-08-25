@@ -111,8 +111,8 @@ She makes her way back across the town toward the overseer's building, arranging
 
 As she approaches the building Mira notices that something is wrong. There's a small, restless looking crowd outside and Nadira is standing in front of them trying to calm things down.
 
-"We knew this could happen, and Torgen and I discussed it at length. He asked that I step in as Marshal if he was to be taken until such time as he recovers." A voice calls out "What if he doesn't recover?", Mira is close enough now to make out words and her heart sinks as she realises what was happening. "Then once we are through this plague we will select a new Overseer, by our custom. But the middle of this crisis is not the time for it."
+"We knew this could happen, and Torgen and I discussed it at length. He asked that I step in as Marshal if he was to be taken until such time as he recovers." A voice calls out "What if he doesn't recover?". Mira is close enough now to make out words and her heart sinks as she realises what is happening. "Then once we are through this plague we will select a new Overseer, by our custom. But the middle of this crisis is not the time for it."
 
-There is grumbling and some further back and forth, but after a few minutes Nadira gets the crowd to disberse and she catches Mira's eye. She walks over and allows herself a deep breath. "Tell me you have something" she says as she ushers Mira into the building. Torgen is nowhere to be seen and Mira doesn't question it. "Maybe. There's a pattern, but the option we take depends how desperate we are." Dira barks a short laugh. "Right now, I'll take anything."
+There is grumbling and some further back and forth, but after a few minutes Nadira gets the crowd to disperse and she catches Mira's eye. She walks over and allows herself a deep breath. "Tell me you have something" she says as she ushers Mira into the building. Torgen is nowhere to be seen and Mira doesn't question it. "Maybe. There's a pattern, but the option we take depends how desperate we are." Dira barks a short laugh. "Right now, I'll take anything."
 
 And so Mira explains her idea.
