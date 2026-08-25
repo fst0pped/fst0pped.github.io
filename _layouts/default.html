@@ -13,7 +13,12 @@
     <!-- Here's the link to our CSS stylesheet! -->
     
     <link href="/css/main.css" rel="stylesheet" type="text/css" media="all" />
-    
+    {% if page.collection == "posts" %}
+      <link href="/css/comments.css" rel="stylesheet" type="text/css" media="all" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+      <script type="module" src="/scripts/mastodon-comments.js"></script>
+    {% endif %}
+
   </head>
   <body>
     <div id="container">

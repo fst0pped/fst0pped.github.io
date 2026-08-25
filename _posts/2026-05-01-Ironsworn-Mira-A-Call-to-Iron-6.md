@@ -5,6 +5,8 @@ date: 2026-05-01
 categories: letsplay
 tags: ironsworn mira ironcalling
 excerpt_separator: <!--excerpt-->
+comments_enabled: true
+tootID: 116501704858572151
 ---
 
 > *Mira has woken at her camp next to the pillar and is beginning to plan her next steps toward fulfilling her new vow, "I will find some way to help whoever is trapped beyond the pillars". She has decided that her next stop should be Abon, the first and biggest settlement in the Ironlands. And, she thinks, a likely place to find further information. We join her just after waking as she begins to break camp.*

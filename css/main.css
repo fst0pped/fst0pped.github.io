@@ -30,6 +30,10 @@ p {
   line-height: 1.6em; /*I find the default HTML line-height tends to be a bit claustrophobic for main text*/
 }
 
+ul {
+  line-height: 1.4em;
+}
+
 img {
   max-width: 100%;
   height: auto;

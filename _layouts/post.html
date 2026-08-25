@@ -18,3 +18,7 @@ layout: default
     <a class="next" href="{{page.next.url}}">{{page.next.title}} {{ ">>" | escape }}</a>
   {% endif %}
 </div>
+
+{% if page.comments_enabled == true %}
+  <mastodon-comments host="tabletop.social" user="fst0pped" tootId="{{page.tootID}}"></mastodon-comments>
+{% endif %}

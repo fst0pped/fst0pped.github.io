@@ -5,6 +5,8 @@ date: 2026-08-24
 categories: letsplay
 tags: ironsworn mira ironcalling
 excerpt_separator: <!--excerpt-->
+comments_enabled: true
+tootID: 117155946523790693
 ---
 
 > *Mira was asked to perform a small service for the town of Abon. In her capacity as an Iron Priest the town Overseer, Torgen, asked if she would perform funeral rights for four residents who had died. What started as a simple service quickly escalated after a miss with a match resulted in a Blighthound being summed into the middle of the gathering. After a short but brutal fight, Mira and her Warden companion manage to chase off the Blighthound but not before it broke Mira's arm and sank its teeth into her leg. Mira succumbs to her wounds and falls into unconsciousness, and we rejoin her as she wakes up, hopefully feeling slightly recovered? The dice will tell.*
